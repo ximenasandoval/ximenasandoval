@@ -4,3 +4,5 @@ Hello there! I'm Ximena and I study Computer Sciences at Universidad de Sonora, 
 My main interests are Software Engineering, Machine Learning and UX-UI.
 
 Outside computer science related activities I enjoy illustrasting, being salty in videogames and watching ghibli movies.
+
+You can check out what I've been up to [in my blog!](https://ximenasandoval.github.io/adventures/)
