@@ -5,4 +5,4 @@ My main interests are Software Engineering, Machine Learning and UX-UI.
 
 Outside computer science related activities I enjoy illustrasting, being salty in videogames and watching ghibli movies.
 
-You can check out what I've been up to [in my blog!](https://ximenasandoval.github.io/adventures/)
+You can check out what I've been up to [on my blog!](https://ximenasandoval.github.io/adventures/)
