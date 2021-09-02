@@ -1,8 +1,7 @@
 ## Hello there my friend :sparkles: 
 
-Hello there! I'm Ximena and I study Computer Sciences at Universidad de Sonora, Hermosillo, MX, currently on my 8th semester.
-My main interests are Software Engineering and UX-UI.
+Hello there! I'm Ximena and I am a Computer Sciences graduate from Universidad de Sonora, Hermosillo, MX. My main interests are Software Engineering, QA, and Deep Learning.
 
-Outside computer science related activities I enjoy illustrasting, being salty in videogames and watching ghibli movies.
+Outside computer science-related stuff I enjoy illustrating and watching Studio Ghibli movies.
 
 You can check out what I've been up to [on my blog!](https://ximenasandoval.github.io/)
