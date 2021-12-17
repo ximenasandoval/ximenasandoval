@@ -4,4 +4,4 @@ Hello there! I'm Ximena and I am a Computer Sciences graduate from Universidad d
 
 Outside computer science-related stuff I enjoy illustrating and watching Studio Ghibli movies.
 
-You can check out what I've been up to [on my blog!](https://ximenasandoval.github.io/)
+You can check out what I've been up to [on my blog!](https://medium.com/@ximena-sandoval-dh)
