@@ -1,6 +1,6 @@
 ## Hello there my friend :sparkles: 
 
-Hello there! I'm Ximena and I am a Computer Sciences graduate and Software Engineer apprentice. My main interests are Software Engineering, DevOps, and Cloud Computing.
+Hello there! I'm Ximena and I am a DevOps Engineer. My main interests are Cloud Computing, DevOps, Software Engineering and a little bit of Deep Learning.
 
 Outside computer science-related stuff I enjoy illustrating and watching Studio Ghibli movies.
 
