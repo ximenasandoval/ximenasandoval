@@ -1,7 +1,9 @@
-## Hello there my friend :sparkles: 
+# Hello there my friend :sparkles: 
 
-Hello there! I'm Ximena and I am a DevOps Engineer. My main interests are Cloud Computing, DevOps, Software Engineering and a little bit of Deep Learning.
+## My name is Ximena and I'm a DevOps Engineer and coffee enjoyer in MX
 
-Outside computer science-related stuff I enjoy illustrating and watching Studio Ghibli movies.
+- 🚀 My main interests are DevOps, Cloud and Platform Engineering
+- 📚 I am currently learning about CI/CD and Kubernetes
+- 🌱 Outside Computer Science related stuff I enjoy illustrating and watching Studio Ghibli movies
 
-You can check out what I've been up to [on my blog!](https://medium.com/@ximena-sandoval-dh)
+You can check out what I've been up to on [LinkedIn](https://www.linkedin.com/in/ximena-sandoval-3032221b3/) and [Medium](https://medium.com/@ximena-sandoval-dh)
